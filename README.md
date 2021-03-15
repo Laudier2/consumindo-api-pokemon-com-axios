@@ -1,5 +1,5 @@
-# consumindo-api-pokemon-com-axios
+# consuming-api-pokemon-with-axios
 
 ![Exemplo de como fuciona](https://github.com/Laudier2/consumindo-api-pokemon-com-fetch/blob/master/img/gitgif.gif)
 
-Sempre Até que axios chegue ao 1.0lançamento, à medida que as mudanças mais adiantadas serão lançadas com uma nova versão secundária. Por exemplo 0.5.1, e 0.5.4terá uma mesma API, mas 0.6.0terá mudanças importantes. Promessas axios depende de uma implementação nativa do ES6 Promise para ser suportado. Se o seu ambiente não suporta Promessas ES6, você pode polyfill. Axios TypeScript inclui definições de TypeScript. https://www.npmjs.com/package/axios
+Always Until axios reaches 1.0 release, as the most advanced changes will be released with a new minor version. For example 0.5.1, and 0.5.4 will have the same API, but 0.6.0 will have important changes. Axial Promises depends on a native implementation of ES6 Promise to be supported. If your environment does not support ES6 Promises, you can polyfill. Axios TypeScript includes TypeScript definitions. https://www.npmjs.com/package/axios
